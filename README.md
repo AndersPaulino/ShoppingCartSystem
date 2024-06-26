@@ -89,8 +89,11 @@ public class Main {
     }
 }
 ```
-```javascript
+## Requisitos
+* Java 17+
+* Maven 3.6+
 
+```javascript
 Este `README.md` fornece uma visão geral do projeto, detalha a estrutura das classes. Sinta-se à vontade para ajustar conforme necessário.
 ```
-[Inicio](#calculo)<br>
+[Inicio](#sistema-de-carrinho-de-compras)<br>
