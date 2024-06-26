@@ -89,9 +89,7 @@ public class Main {
     }
 }
 ```
-## Como executar
-### Para execytar o projeto, siga os seguintes passos:
-* Clone o repositório:
-  ```sh
-    git clone
-  ```
+```javascript
+
+Este `README.md` fornece uma visão geral do projeto, detalha a estrutura das classes. Sinta-se à vontade para ajustar conforme necessário.
+```
